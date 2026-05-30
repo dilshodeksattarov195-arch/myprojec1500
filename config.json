@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "uploaderserify",
+        "uuid": 11236500,
+        "checksum": "790n9"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
